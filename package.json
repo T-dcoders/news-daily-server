@@ -1,0 +1,20 @@
+{
+  "name": "news-daily-server",
+  "version": "1.0.0",
+  "description": "\"# news-daily-server\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-dcoders/news-daily-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-dcoders/news-daily-server/issues"
+  },
+  "homepage": "https://github.com/T-dcoders/news-daily-server#readme"
+}
